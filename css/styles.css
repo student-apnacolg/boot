@@ -1,0 +1,55 @@
+
+
+#navBar {
+  height: 60px;
+  background-color: #e0e0e0;
+}
+
+#jumboTron {
+  height: 400px;
+  color: white;
+  margin-top: 60px;
+  text-align: center;
+  background-size: cover;
+  background-image: url(../assets/bg.webp);
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#cardImg {
+  height: 250px;
+  object-fit: cover;
+}
+
+#cardBody {
+  margin-top: 10px;
+  height: 200px;
+}
+
+#download {
+  height: 350px;
+}
+
+#contact {
+  height: 350px;
+}
+
+#creden {
+  font-size: 1.2em !important;
+  margin-top: 150px;
+}
+
+footer {
+  height: 400px !important;
+  background-color: #424242;
+}
+
+footer a{
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #00A8A8 !important;
+}
